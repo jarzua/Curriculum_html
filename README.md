@@ -1,7 +1,8 @@
 # Hoja de vida — Javier David Ripoll
 
+**Ver en línea:** https://jarzua.github.io/Curriculum_html/
+
 Página de un solo scroll (tema oscuro, animaciones al hacer scroll) basada en el diseño de la hoja de vida en PDF.
-n**Ver en línea:** https://jarzua.github.io/Curriculum_html/
 HTML + CSS + JavaScript puro, sin dependencias ni compilación.
 
 ## Estructura
